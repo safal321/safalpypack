@@ -1,0 +1,5 @@
+setup.py
+safalpypack.egg-info/PKG-INFO
+safalpypack.egg-info/SOURCES.txt
+safalpypack.egg-info/dependency_links.txt
+safalpypack.egg-info/top_level.txt
